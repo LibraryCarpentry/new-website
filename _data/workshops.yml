@@ -902,6 +902,19 @@ workshops:
     url: "https://evamarik.github.io/2018-11-12-cologne/"
     notes: "See also https://www.vdb-online.org/veranstaltung/800/ (in German)"
     blogs: null
+  - venue: "BI Norwegian Business School, Norway"
+    start: 2018-11-19
+    end: 2018-11-20
+    eventbrite_id: ""
+    humandate: 19-20 November, 2018
+    latitude: 59.948252
+    longitude: 10.768011
+    who: "Fredrik Hovind Juell, Hans Gunnar Slokvik Lian, Annika Rockenberger, Dan Michael Olsen Heggø"
+    numbers: null
+    what: "Data Intro, Python"
+    url: "https://scriptotek.github.io/2018-11-19-python/"
+    notes: ""
+    blogs: ""
   - venue: "Manchester, UK"
     start: 2018-11-30
     end: 2018-11-30
